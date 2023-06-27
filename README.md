@@ -1,8 +1,7 @@
 <h2 align="left">Ladies And Gentlemen</h2>
 <div>
 
-- 🎓 I’m currently studing at <a href="http://araquari.ifc.edu.br">IFC</a>
-- 📫 How to reach me: @ldmfabio (<a href="https://about.me/ldmfabio">every social media</a>)
+- 🎓 I’m currently studying at <a href="http://araquari.ifc.edu.br">IFC</a>
 </div>
 
 ##
