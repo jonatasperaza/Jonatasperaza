@@ -1,10 +1,11 @@
 <div>
-- 🎓 I’m currently studying at <a href="http://araquari.ifc.edu.br">IFC</a>
+## - 🎓 I’m currently studying at <a href="http://araquari.ifc.edu.br">IFC</a>
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonatasperaza&layout=donut)
 ![Jonatasperaza GitHub stats](https://github-readme-stats.vercel.app/api?username=jonatasperaza&show_icons=true&theme=transparent)
 
+<div>
 <img src="http://this.website.com/cmoe?name=jonatasperaza" alt="jonatasperaza" />
   <div style="display: inline_block"><br>
   <img align="center" alt="Jonatas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
