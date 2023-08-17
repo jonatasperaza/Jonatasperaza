@@ -3,12 +3,9 @@
 </div>
 
 ##
-
-<div align="center">
   <a href="https://github.com/jonatasperaza">
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonatasperaza&layout=donut)
-    ![Jonatasperaza GitHub stats](https://github-readme-stats.vercel.app/api?username=jonatasperaza&show_icons=true&theme=transparent)
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonatasperaza&layout=donut)
+![Jonatasperaza GitHub stats](https://github-readme-stats.vercel.app/api?username=jonatasperaza&show_icons=true&theme=transparent)
 
 ##
 
