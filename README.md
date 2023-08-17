@@ -2,12 +2,8 @@
 - 🎓 I’m currently studying at <a href="http://araquari.ifc.edu.br">IFC</a>
 </div>
 
-##
-  <a href="https://github.com/jonatasperaza">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonatasperaza&layout=donut)
 ![Jonatasperaza GitHub stats](https://github-readme-stats.vercel.app/api?username=jonatasperaza&show_icons=true&theme=transparent)
-
-##
 
 <img src="http://this.website.com/cmoe?name=jonatasperaza" alt="jonatasperaza" />
   <div style="display: inline_block"><br>
@@ -19,7 +15,4 @@
    <a href="https://www.instagram.com/jonatasperaza/" target="_blank" style:="text-aling:center"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
   
-##
-  
-
 > ![Snake animation](https://github.com/jonatasperaza/jonatasperaza/blob/output/github-contribution-grid-snake.svg)
