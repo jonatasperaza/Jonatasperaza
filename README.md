@@ -1,5 +1,5 @@
 <div>
-## - 🎓 I’m currently studying at <a href="http://araquari.ifc.edu.br">IFC</a>
+- 🎓 I’m currently studying at <a href="http://araquari.ifc.edu.br">IFC</a>
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonatasperaza&layout=donut)
