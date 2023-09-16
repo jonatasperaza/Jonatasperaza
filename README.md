@@ -1,13 +1,11 @@
 <div>
 - 🎓 I’m currently studying at <a href="http://araquari.ifc.edu.br">IFC</a>
 </div>
-<\br>
 
 <div>
 ![Jonatasperaza GitHub stats](https://github-readme-stats.vercel.app/api?username=jonatasperaza&show_icons=true&theme=transparent)
 </div>
 <div>
-<img src="http://this.website.com/cmoe?name=jonatasperaza" alt="jonatasperaza" />
   <div style="display: inline_block"><br>
   <img align="center" alt="Jonatas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jonatas-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
