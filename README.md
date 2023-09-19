@@ -10,8 +10,12 @@
 
 <div align="center">
   <a href="https://github.com/jonatasperaza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonatasperaza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatasperaza&layout=compact&langs_count=7&theme=dark"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jonatasperaza&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</a>
+<a href="https://github.com/jonatasperaza">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatasperaza&layout=donut&card_width=320" />
+</a>
+  
 </div>
 
 ##
