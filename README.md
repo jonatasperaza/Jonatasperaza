@@ -1,9 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e83d84&height=120&section=header"/>
 <h2 align="center">Ladies And Gentlemen</h2>
 <div>
-
-- 👨‍🎓 I’m currently studing at <a href="http://araquari.ifc.edu.br">IFC</a>
-- 📫 How to reach me: @jonatasperaza (<a href="https://about.me/jonatasperaza">every social media</a>)
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e83d84&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Jonatas+Silva+Peraza;I'm+15+years+old;I+am+from+Joinville,+SC;I'm+studying+at+IFC-Campus+Araquari;I'm+a+Web+Developer+and+Programmer+in+training;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 </div>
 
