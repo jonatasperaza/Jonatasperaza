@@ -1,4 +1,5 @@
-<h2 align="left">Ladies And Gentlemen</h2>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e83d84&height=120&section=header"/>
+<h2 align="center">Ladies And Gentlemen</h2>
 <div>
 
 - 👨‍🎓 I’m currently studing at <a href="http://araquari.ifc.edu.br">IFC</a>
@@ -6,7 +7,7 @@
 
 </div>
 
-##
+
 
 <div align="center">
   <a href="https://github.com/jonatasperaza">
@@ -19,6 +20,7 @@
 </div>
 
 ##
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jonatasperaza&bg_color=141424&color=e63780&line=472258&point=504e4e&area=true&hide_border=true)](https://github.com/jonatasperaza/jonatasperaza)
 
 <div style="display: inline_block width: 45%"><br>
   <img align="center" alt="Jonatas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -29,3 +31,4 @@
 </div>
 
 ##
+<img style="margin-top:10px" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e83d84&height=120&section=footer"/>
