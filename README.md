@@ -2,7 +2,7 @@
 <h2 align="center" style="color: #e83d84;">Ladies And Gentlemen</h2>
 <div>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e83d84&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Jonatas+Silva+Peraza;I'm+15+years+old;I+am+from+Joinville,+SC;I'm+studying+at+IFC-Campus+Araquari;I'm+a+Web+Developer+and+Programmer+in+training;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e83d84&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Jonatas+Silva+Peraza;I'm+15+years+old;I+am+from+Joinville,+SC;I'm+studying+at+IFC-Campus+Araquari;I'm+a+Web+Developer+and+Programmer+in+training;I+took+a+robotics+course+at+Jumper;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 </div>
 
@@ -28,6 +28,7 @@
   <img align="center" alt="Jonatas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jonatas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jonatas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Jonatas-Python" height="30" width="40" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/b4a6aebe-8889-45b9-b3ee-645a79002e4b/ddquz73-738b975c-6d76-4fca-9bfe-ac0382830937.png">
 </div>
 
 ##
