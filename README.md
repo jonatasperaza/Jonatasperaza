@@ -31,4 +31,19 @@
 </div>
 
 ##
+
+### Workstation Tools 💻
+
+![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+&nbsp;
+
+<div align="center">
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e83d84&size=25&center=true&vCenter=true&width=1000&lines=Visit+Counter)](https://github/ClaudioAnzini/)
+<p><img src="https://profile-counter.glitch.me/{jonatasperaza}/count.svg" /></p> 
+
+</div>
 <img style="margin-top:10px" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e83d84&height=120&section=footer"/>
