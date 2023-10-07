@@ -9,7 +9,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Clique aqui
-        uses: jonatasperaza/jonatasperaza@master
+        uses: jonatasperaza/jonatasperaza@main
         with:
           count: 0
       - name: Atualizar o número de cliques
