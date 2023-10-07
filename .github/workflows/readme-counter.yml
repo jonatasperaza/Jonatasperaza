@@ -1,5 +1,5 @@
 yaml
-name: Readme Counter
+name: ReadmeCounter
 
 on:
  push:
