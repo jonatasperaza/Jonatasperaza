@@ -1,6 +1,3 @@
-[![Clique aqui](https://img.shields.io/badge/Clique%20aqui-0-brightgreen.svg)](https://github.com/jonatasperaza/jonatasperaza/blob/master/README.md)
-O número atual de cliques é: 0
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e83d84&height=120&section=header"/>
 <h2 align="center" style="color: #e83d84;">Ladies And Gentlemen</h2>
 <div>
