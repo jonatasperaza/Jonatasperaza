@@ -3,7 +3,7 @@ import requests
 import json
 
 # Replace 'your_username' and 'your_repo' with your actual GitHub username and repository name
-url = f'https://api.github.com/repos/your_username/your_repo/contents/README.md'
+url = f'https://api.github.com/repos/jonatasperaza/jonatasperaza/contents/README.md'
 
 # Replace 'your_personal_access_token' with your actual GitHub personal access token
 headers = {'Authorization': 'token your_personal_access_token'}
