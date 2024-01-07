@@ -1,6 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e83d84&height=120&section=header"/>
 <h2 align="center" style="color: #e83d84;">Ladies And Gentlemen</h2>
 <div>
+
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e83d84&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Jonatas+Silva+Peraza;I'm+16+years+old;I+am+from+Joinville,+SC;I'm+studying+at+IFC-Campus+Araquari;I'm+a+Web+Developer+and+Programmer+in+training;I+took+a+robotics+course+at+Jumper;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
