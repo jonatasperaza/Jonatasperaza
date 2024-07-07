@@ -39,8 +39,8 @@
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Manjaro](https://img.shields.io/badge/Manjaro-D2ECE9?style=for-the-badge&logo=manjaro&logoColor=#1DE9B6)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
+![Manjaro](https://img.shields.io/badge/Manjaro-D2ECE9?style=for-the-badge&logo=manjaro&logoColor=#1DE9B6)&nbsp;
 
 &nbsp;
 
