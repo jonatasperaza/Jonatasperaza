@@ -20,7 +20,7 @@
 </div>
 
 ##
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jonatasperaza&bg_color=141424&color=e63780&line=472258&point=504e4e&area=true&hide_border=true)](https://github.com/jonatasperaza/jonatasperaza)
+[![Jonatas peraza graphs](https://github-readme-activity-graph.vercel.app/graph?username=jonatasperaza&bg_color=141424&color=e63780&line=472258&point=504e4e&area=true&hide_border=true)](https://github.com/jonatasperaza/jonatasperaza)
 
 <div style="display: inline_block width: 45%"><br>
   <img align="center" alt="Jonatas-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
