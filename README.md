@@ -43,6 +43,12 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 ![Manjaro](https://img.shields.io/badge/Manjaro-D2ECE9?style=for-the-badge&logo=manjaro&logoColor=#1DE9B6)&nbsp;
 
+### Apoie meu trabalho 💖
+
+[![Patrocinar](https://img.shields.io/badge/Sponsor-%E2%9D%A4-red?style=for-the-badge)](https://github.com/sponsors/jonatasperaza)
+
+
+
 &nbsp;
 
 <div align="center">
