@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="490px" font-size="16px">
 <style>
 @font-face {
 src: local('Consolas'), local('Consolas Bold');
@@ -39,9 +39,7 @@ text, tspan {white-space: pre;}
   <tspan x="15" y="410">#######*--------------------::=#########</tspan>
   <tspan x="15" y="430">#######-:-----------------:::::*#######*</tspan>
   <tspan x="15" y="450">#######::---------------::::::::*####**#</tspan>
-  <tspan x="15" y="470">#####*-:----------------:::::::::=*###**</tspan>
-  <tspan x="15" y="490">**##*=:::---------------:.:::::::::::=##</tspan>
-  <tspan x="15" y="510">                                            </tspan>
+  <tspan x="15" y="470">                                            </tspan>
 </text>
 <text x="390" y="30" fill="#c9d1d9">
 <tspan x="410" y="30">Jonatasperaza</tspan> -———————————————————————————————————————-—-
