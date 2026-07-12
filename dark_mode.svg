@@ -44,7 +44,7 @@ text, tspan {white-space: pre;}
 <text x="390" y="30" fill="#c9d1d9">
 <tspan x="410" y="30">Jonatasperaza</tspan> -————————————————————————————————————————-—-
 <tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Windows 10, Android 14, Linux</tspan>
-<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ...................... </tspan><tspan class="value" id="age_data">18 years, 8 months, 14 days</tspan>
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ...................... </tspan><tspan class="value" id="age_data">18 years, 8 months, 15 days</tspan>
 <tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">IFC Araquari / Fábrica de Software</tspan>
 <tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Information Systems Student</tspan>
 <tspan x="390" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value">VSCode, Zed, Codex</tspan>
