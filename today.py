@@ -22,8 +22,8 @@ def daily_readme(birthday):
     """
     diff = relativedelta.relativedelta(datetime.datetime.today(), birthday)
     return '{} {}, {} {}, {} {}{}'.format(
-        diff.years, 'year' + format_plural(diff.years), 
-        diff.months, 'month' + format_plural(diff.months), 
+        diff.years, 'year' + format_plural(diff.years),
+        diff.months, 'month' + format_plural(diff.months),
         diff.days, 'day' + format_plural(diff.days),
         ' 🎂' if (diff.months == 0 and diff.days == 0) else '')
 
@@ -157,7 +157,7 @@ def recursive_loc(owner, repo_name, data, cache_comment, addition_total=0, delet
 
 def loc_counter_one_repo(owner, repo_name, data, cache_comment, history, addition_total, deletion_total, my_commits):
     """
-    Recursively call recursive_loc (since GraphQL can only search 100 commits at a time) 
+    Recursively call recursive_loc (since GraphQL can only search 100 commits at a time)
     only adds the LOC value of commits authored by me
     """
     for node in history['edges']:
@@ -284,7 +284,7 @@ def add_archive():
     with open('cache/repository_archive.txt', 'r') as f:
         data = f.readlines()
     old_data = data
-    data = data[7:len(data)-3] # remove the comment block    
+    data = data[7:len(data)-3] # remove the comment block
     added_loc, deleted_loc, added_commits = 0, 0, 0
     contributed_repos = len(data)
     for line in data:
@@ -308,11 +308,11 @@ def force_close_file(data, cache_comment):
 
 
 def stars_counter(data):
-    """
-    Count total stars in repositories owned by me
-    """
     total_stars = 0
-    for node in data: total_stars += node['node']['stargazers']['totalCount']
+    for node in data:
+        if node["node"] is None:
+            continue
+        total_stars += node["node"]["stargazers"]["totalCount"]
     return total_stars
 
 
