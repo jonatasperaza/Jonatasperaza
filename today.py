@@ -84,9 +84,7 @@ def graph_repos_stars(count_type, owner_affiliation, cursor=None, add_loc=0, del
                     node {
                         ... on Repository {
                             nameWithOwner
-                            stargazers {
-                                totalCount
-                            }
+                            stargazerCount
                         }
                     }
                 }
@@ -100,10 +98,16 @@ def graph_repos_stars(count_type, owner_affiliation, cursor=None, add_loc=0, del
     variables = {'owner_affiliation': owner_affiliation, 'login': USER_NAME, 'cursor': cursor}
     request = simple_request(graph_repos_stars.__name__, query, variables)
     if request.status_code == 200:
+        if 'errors' in request.json():
+            print('graph_repos_stars GraphQL errors:', request.json()['errors'])
+        repositories = request.json()['data']['user']['repositories']
         if count_type == 'repos':
-            return request.json()['data']['user']['repositories']['totalCount']
+            return repositories['totalCount']
         elif count_type == 'stars':
-            return stars_counter(request.json()['data']['user']['repositories']['edges'])
+            total_stars = stars_counter(repositories['edges'])
+            if repositories['pageInfo']['hasNextPage']:
+                total_stars += graph_repos_stars(count_type, owner_affiliation, repositories['pageInfo']['endCursor'])
+            return total_stars
 
 
 def recursive_loc(owner, repo_name, data, cache_comment, addition_total=0, deletion_total=0, my_commits=0, cursor=None):
@@ -312,7 +316,7 @@ def stars_counter(data):
     for node in data:
         if node["node"] is None:
             continue
-        total_stars += node["node"]["stargazers"]["totalCount"]
+        total_stars += node["node"]["stargazerCount"]
     return total_stars
 
 
